@@ -1,5 +1,5 @@
 {
-    "locale": "en-US",
+    "locale": "id-ID",
     "strings": {
         "constants": {
             "1_map-palettes": "Standard/Overworld|Underground (dark blue)|Castle (gray)|Underwater (dark green)|Sky (light green)|Ice (light blue)|Volcano (red)|Ghost House (purple)|Bonus (yellow)|Beach (light brown)|Star World (pastel blue)|Forest (earthy brown)|Airship (brown-black)",
@@ -7,130 +7,130 @@
         },
         "common": {
             "buttons": {
-                "yes": "Yes",
-                "no": "No",
-                "close": "Close",
-                "download": "Download",
+                "yes": "Ya",
+                "no": "Tidak",
+                "close": "Tutup",
+                "download": "Unduh",
                 "next": "Next",
                 "confirm": "Confirm",
-                "confirm-click": "Click again to confirm",
-                "proceed": "Proceed",
-                "cancel": "Cancel",
-                "play": "Play",
-                "load": "Load",
-                "go-back": "Go back",
-                "delete": "Delete",
-                "rename": "Rename",
-                "lock": "Lock",
-                "unlock": "Unlock",
-                "hide": "Hide",
-                "view": "View",
-                "create": "Create",
+                "confirm-click": "Kilk lagi untuk mengonfirmasi",
+                "proceed": "Lanjutkan",
+                "cancel": "Batal",
+                "play": "Main",
+                "load": "Muat",
+                "go-back": "Kembali",
+                "delete": "Hapus",
+                "rename": "Ganti Nama",
+                "lock": "Kunci",
+                "unlock": "Buka Kunci",
+                "hide": "Sembunyikan",
+                "view": "Lihat",
+                "create": "Buat",
                 "edit": "Edit",
-                "remove": "Remove",
-                "exit": "Exit",
-                "editor": "Editor",
-                "click-configure": "Click to configure"
+                "remove": "Hapus",
+                "exit": "Keluar",
+                "editor": "Pengedit",
+                "click-configure": "Kilk untuk mengatur"
             },
             "time": {
                 "days": {
-                    "one": "day",
-                    "other": "days"
+                    "one": "hari",
+                    "other": "hari"
                 },
                 "hours": {
-                    "one": "hour",
-                    "other": "hours"
+                    "one": "jam",
+                    "other": "jam"
                 },
                 "minutes": {
-                    "one": "minute",
-                    "other": "minutes"
+                    "one": "menit",
+                    "other": "menit"
                 },
                 "seconds": {
-                    "one": "second",
-                    "other": "seconds"
+                    "one": "detik",
+                    "other": "detik"
                 },
-                "ago": "ago",
-                "just-now": "Just now",
+                "ago": "lalu",
+                "just-now": "Baru saja",
                 "notation": "{0} {1}"
             },
             "words": {
                 "keyboard": "keyboard",
-                "controller": "controller",
-                "language": "language",
-                "characters": "characters",
-                "music": "music",
-                "remix": "remix",
-                "decibels": "decibels",
+                "controller": "kontroler",
+                "language": "bahasa",
+                "characters": "karakter",
+                "music": "musik",
+                "remix": "campuran",
+                "decibels": "desibel",
                 "volume": "volume",
-                "frequency": "frequency",
-                "rotation": "rotation",
-                "movement": "movement",
-                "active": "active",
-                "inactive": "inactive",
-                "unavailable": "unavailable",
-                "paused": "paused",
-                "stop": "stop",
-                "loop": "loop",
-                "name": "name",
-                "wait": "wait",
-                "main": "main",
-                "custom": "custom",
-                "left": "left",
-                "middle": "middle",
-                "right": "right",
-                "up": "up",
-                "down": "down",
-                "width": "width",
-                "height": "height",
-                "opacity": "opacity",
-                "stationary": "stationary",
+                "frequency": "frekuensi",
+                "rotation": "rotasi",
+                "movement": "pergerakan",
+                "active": "aktif",
+                "inactive": "nonaktif",
+                "unavailable": "tidak tersedia",
+                "paused": "dijeda",
+                "stop": "berhenti",
+                "loop": "pengulangan",
+                "name": "nama",
+                "wait": "tunggu",
+                "main": "utama",
+                "custom": "kustom",
+                "left": "kiri",
+                "middle": "tengah",
+                "right": "kanan",
+                "up": "atas",
+                "down": "bawah",
+                "width": "lebar",
+                "height": "tinggi",
+                "opacity": "opasitas",
+                "stationary": "tidak bergerak",
                 "layers": {
-                    "one": "layer",
-                    "other": "layers"
+                    "one": "lapis",
+                    "other": "lapisan"
                 },
                 "effects": {
-                    "one": "effect",
-                    "other": "effects"
+                    "one": "efek",
+                    "other": "efek-efek"
                 },
                 "filters": {
                     "one": "filter",
-                    "other": "filters"
+                    "other": "filter-filter"
                 },
                 "generators": {
                     "one": "generator",
-                    "other": "generators"
+                    "other": "generator-generator"
                 },
                 "objects": {
-                    "one": "object",
-                    "other": "objects"
+                    "one": "objek",
+                    "other": "objek-objek"
                 },
                 "tiles": {
-                    "one": "tile",
-                    "other": "tiles"
+                    "one": "ubin",
+                    "other": "ubin-ubin"
                 },
                 "destination": {
                     "one": "destination",
-                    "other": "destinations"
+                    "other": "destinasi"
                 },
                 "entryway": {
-                    "one": "entryway",
-                    "other": "entryways"
+                    "one": "jalan masuk",
+                    "other": "jalan masuk"
                 },
                 "maps": {
-                    "one": "map",
-                    "other": "maps"
+                    "one": "peta",
+                    "other": "peta"
                 },
                 "themes": {
-                    "one": "theme",
-                    "other": "themes"
+                    "one": "tema",
+                    "other": "tema-tema"
                 },
                 "tags": {
-                    "one": "tag",
-                    "other": "tags"
+                    "one": "tanda",
+                    "other": "tanda-tanda"
                 },
                 "degrees": {
-                    "one": "degree",
-                    "other": "degrees"
+                    "one": "derajat",
+                    "other": "derajat"
                 }
             },
             "labels": {
