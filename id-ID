@@ -1,0 +1,414 @@
+{
+    "locale": "en-US",
+    "strings": {
+        "constants": {
+            "1_map-palettes": "Standard/Overworld|Underground (dark blue)|Castle (gray)|Underwater (dark green)|Sky (light green)|Ice (light blue)|Volcano (red)|Ghost House (purple)|Bonus (yellow)|Beach (light brown)|Star World (pastel blue)|Forest (earthy brown)|Airship (brown-black)",
+            "2_map-palettes": "Standard"
+        },
+        "common": {
+            "buttons": {
+                "yes": "Yes",
+                "no": "No",
+                "close": "Close",
+                "download": "Download",
+                "next": "Next",
+                "confirm": "Confirm",
+                "confirm-click": "Click again to confirm",
+                "proceed": "Proceed",
+                "cancel": "Cancel",
+                "play": "Play",
+                "load": "Load",
+                "go-back": "Go back",
+                "delete": "Delete",
+                "rename": "Rename",
+                "lock": "Lock",
+                "unlock": "Unlock",
+                "hide": "Hide",
+                "view": "View",
+                "create": "Create",
+                "edit": "Edit",
+                "remove": "Remove",
+                "exit": "Exit",
+                "editor": "Editor",
+                "click-configure": "Click to configure"
+            },
+            "time": {
+                "days": {
+                    "one": "day",
+                    "other": "days"
+                },
+                "hours": {
+                    "one": "hour",
+                    "other": "hours"
+                },
+                "minutes": {
+                    "one": "minute",
+                    "other": "minutes"
+                },
+                "seconds": {
+                    "one": "second",
+                    "other": "seconds"
+                },
+                "ago": "ago",
+                "just-now": "Just now",
+                "notation": "{0} {1}"
+            },
+            "words": {
+                "keyboard": "keyboard",
+                "controller": "controller",
+                "language": "language",
+                "characters": "characters",
+                "music": "music",
+                "remix": "remix",
+                "decibels": "decibels",
+                "volume": "volume",
+                "frequency": "frequency",
+                "rotation": "rotation",
+                "movement": "movement",
+                "active": "active",
+                "inactive": "inactive",
+                "unavailable": "unavailable",
+                "paused": "paused",
+                "stop": "stop",
+                "loop": "loop",
+                "name": "name",
+                "wait": "wait",
+                "main": "main",
+                "custom": "custom",
+                "left": "left",
+                "middle": "middle",
+                "right": "right",
+                "up": "up",
+                "down": "down",
+                "width": "width",
+                "height": "height",
+                "opacity": "opacity",
+                "stationary": "stationary",
+                "layers": {
+                    "one": "layer",
+                    "other": "layers"
+                },
+                "effects": {
+                    "one": "effect",
+                    "other": "effects"
+                },
+                "filters": {
+                    "one": "filter",
+                    "other": "filters"
+                },
+                "generators": {
+                    "one": "generator",
+                    "other": "generators"
+                },
+                "objects": {
+                    "one": "object",
+                    "other": "objects"
+                },
+                "tiles": {
+                    "one": "tile",
+                    "other": "tiles"
+                },
+                "destination": {
+                    "one": "destination",
+                    "other": "destinations"
+                },
+                "entryway": {
+                    "one": "entryway",
+                    "other": "entryways"
+                },
+                "maps": {
+                    "one": "map",
+                    "other": "maps"
+                },
+                "themes": {
+                    "one": "theme",
+                    "other": "themes"
+                },
+                "tags": {
+                    "one": "tag",
+                    "other": "tags"
+                },
+                "degrees": {
+                    "one": "degree",
+                    "other": "degrees"
+                }
+            },
+            "labels": {
+                "press-again-to-confirm": "Press again to confirm",
+                "press-x-again-to-confirm": "Press {0} again to confirm",
+                "nothing-to-see": "Nothing to see here!",
+                "x-settings": "{0} settings",
+                "x-tags": "{0} tags",
+                "active-on-start": "Active on start",
+                "additional-x-settings": "Additional {0} settings",
+                "above-all-layers": "above all layers",
+                "on-layer": "on layer",
+                "puts-player": "Puts player",
+                "warps-to": "Warps to",
+                "this-map": "This map",
+                "new-x-name": "New {0} name",
+                "one-screen": "one screen",
+                "surface-area": "Surface area",
+                "max-tiles": "{0} tiles max",
+                "min-tiles": "Minimum size is {0}",
+                "current-map-size": "Current map size",
+                "select-x": "Select {0}",
+                "mode": "Mode",
+                "appearance": "Appearance",
+                "activity": "Activity",
+                "activation": "Activation",
+                "advanced": "Advanced",
+                "tagging": "Tagging",
+                "behavior": "Behavior",
+                "how-it-works": "How it works",
+                "duration": "Duration",
+                "repeats": "Repeats",
+                "delay": "Delay",
+                "other": "Other"
+            },
+            "menu-options": {
+                "default": "Default",
+                "no-power-up": "No power-up",
+                "enabled": "Enabled",
+                "disabled": "Disabled",
+                "empty": "Empty",
+                "none": "None",
+                "horizontal": "Horizontal",
+                "vertical": "Vertical",
+                "both-axes": "Both axes",
+                "standard": "Standard",
+                "more-buttons": "More buttons",
+                "reset-to-default": "Reset to default",
+                "unapplicable": "Unapplicable"
+            }
+        },
+        "title-screen": {
+            "buttons": {
+                "play-level": "[scale=0.8]Play level[/scale]",
+                "level-editor": "[scale=0.8]Level Editor[/scale]",
+                "extras": "[scale=0.8]Minigames[/scale][scale=0.5]\n[color=#CCCCCC]Under construction[/color][/scale]"
+            },
+            "tooltips": {
+                "join-lss": "Visit Level Share Square!",
+                "lss-yt": "Subscribe to Level Share Square!",
+                "smc-discord": "Join our Discord!"
+            }
+        },
+        "level-select": {
+            "labels": {
+                "level-select": "LEVEL SELECT",
+                "pick-gamestyle": "PICK A GAMESTYLE",
+                "pick-theme": "PICK A THEME",
+                "empty-card": "EMPTY LEVEL CARD",
+                "level-name": "Level name",
+                "size-preset": "Size preset"
+            },
+            "buttons": {
+                "create-new": "CREATE A NEW LEVEL",
+                "import-code": "IMPORT LEVEL CODE",
+                "compact": "Compact",
+                "production": "Production",
+                "create-level": "Create level!",
+                "create-lss-entry": "Also create a private LSS-entry"
+            },
+            "tooltips": {
+                "play": "Play",
+                "restore-points": "Restore points",
+                "open-editor": "Open level editor",
+                "view-code": "View code",
+                "delete": "Delete"
+            },
+            "html": {
+                "level-name-placeholder": "You can always change this later",
+                "level-size-presets": "Horizontal (no extra Y)|Horizontal (with Y-space)|Vertical|Metroidvania|One-screen",
+                "import-code-placeholder": "Paste your level code here, then press the LOAD button."
+            },
+            "text": {
+                "gamestyle-notice": "Pick a style! In this game, each gamestyle aims to closely replicate the source material. Therefore gamestyles aren't compatible, so think about which one you'd like to use now.",
+                "theme-notice": "Now just decide on a theme and a name for your level!\nYou can change these later. Themes can be customized in-editor.",
+                "delete-warning": "Are you sure you want to delete this level?\nIn case you want to play or edit it again later, be sure to save the level code to your computer first.",
+                "code-notice": "You can share this level code with others, so they can play your level! It's also recommended to keep level codes stored as a back-up.",
+                "compact-notice": "Compact codes only contain all the data needed to construct your level, stripping out data stored for the level designers only.",
+                "production-notice": "The production code saves extra data that is handy during level designing, such as what items are in the favorites bar.",
+                "import-code-notice": "Paste a level code here, and the level will be saved within the game. It is still recommended to make regular backups of your level by saving the code on your device and/or on Level Share Square.",
+                "first-paste-code": "You first have to paste in your level code.",
+                "unrecognized-code": "Sorry, this level code could not be recognized.",
+                "outdated-version": "This level code is intended for a newer version of Super Mario Construct.",
+                "missing-startpoint": "The startpoint is invalid. Notify the creator to place a startpoint in an existing map."
+            }
+        },
+        "regular-play": {
+            "labels": {
+                "made-by": "Made by",
+                "no-desc": "No description was set for this level.",
+                "time": "TIME"
+            },
+            "html": {
+                "level-code-placeholder": "Paste a level code here and press play!"
+            }
+        },
+        "toolbar": {
+            "bottom-buttons": {
+                "general-tiles": "General tiles",
+                "tilesets": "Tilesets",
+                "objects": "Objects",
+                "enemies": "Enemies",
+                "warps": "Warps",
+                "layers": "Layers",
+                "effects": "Effects",
+                "maps": "Maps",
+                "settings": "Settings",
+                "playtest": "Playtest",
+                "save-quit": "Save & Quit"
+            },
+            "sidebar": {
+                "mainBlocks": "General blocks",
+                "pipes": "Pipes",
+                "objPipes": "Extendable pipes",
+                "water": "Water",
+                "lava": "Lava",
+                "poison": "Poison",
+                "cryo": "Cryo",
+                "spikes": "Spike & deadly tiles",
+                "climbables": "Climbable objects",
+                "electricity": "Electricity",
+                "doors": "Scenery doors",
+                "mainObjects": "Common objects",
+                "powerUps": "Power-ups & mounts",
+                "platforms": "Platforms",
+                "switches": "Switches",
+                "goals": "Goals & checkpoints",
+                "advanced": "Advanced tiles",
+                "envChangers": "Environmental Changers",
+                "mainEnemies": "Common enemies",
+                "shellEnemies": "Shell enemies",
+                "waterEnemies": "Aquatic enemies",
+                "castleEnemies": "Castle enemies",
+                "ghostEnemies": "Ghost enemies",
+                "artillery": "Artillery",
+                "plantEnemies": "Plant enemies",
+                "dinoEnemies": "Dinosaur enemies",
+                "fieryEnemies": "Fiery & electric enemies",
+                "yiEnemies": "Yoshi's Island enemies",
+                "poweredEnemies": "Powered-up enemies",
+                "bosses": "Bosses & related enemies",
+                "general-level-settings": "General level settings",
+                "map-settings": "Map settings",
+                "bg-settings": "Customize backgrounds",
+                "bgc-settings": "Edit background color/gradient",
+                "music-settings": "Edit music",
+                "level-desc": "Edit level description",
+                "level-stats": "Level info & stats",
+                "toolbar-settings": "Toolbar settings",
+                "backup-settings": "Autosave & Backup"
+            },
+            "tileset-menu": {
+                "footer": "Click on a tileset icon to open its page.[scale=0.5]\n\n[/scale]Drag a tileset icon to the favorites bar to access it from anywhere in the editor.",
+                "go-back": "Back to all tilesets"
+            },
+            "mini-toolbar": {
+                "expand-palettes": "Expand palettes",
+                "collapse-palettes": "Collapse palettes",
+                "warps": "Warps menu",
+                "layers": "Layers",
+                "effects": "Effects menu",
+                "maps": "Maps",
+                "level-settings": "Level settings",
+                "map-settings": "Map settings",
+                "bg-settings": "Background settings",
+                "bgc-settings": "Background color settings",
+                "music-settings": "Music settings",
+                "level-desc": "Level description",
+                "level-stats": "Level statistics",
+                "toolbar-settings": "Toolbar settings",
+                "backup-settings": "Backup settings\n[scale=0.5](Applies to every level)[/scale]"
+            },
+            "labels": {
+                "new-destination-name": "[scale=0.5]New destination[/scale]\n[scale=0.75]name:[/scale]",
+                "new-destination-output-layer": "[scale=0.7]Move player\nto layer[/scale]",
+                "delete-destination-prompt": "Delete destination?\n[scale=0.5](Also deletes its entryways)[/scale]",
+                "layer-darkness": "Cast darkness",
+                "add-effect": "Add an effect",
+                "start-with": "[scale=0.75]Start with[/scale]",
+                "inventory": "[scale=0.75]Inventory[/scale]",
+                "level-name": "Level name",
+                "authors": "Author(s)",
+                "water-mode": "Water mode",
+                "screenwrap": "Screenwrap",
+                "map-palette": "Map palette",
+                "origin": "Origin",
+                "scroll-loop-method": "Scroll/Loop\nmethod",
+                "h-autoscroll": "Horizontal\nautoscroll",
+                "v-autoscroll": "Vertical\nautoscroll",
+                "bg-color-header": "Select a background color",
+                "pick-color": "Pick a\ncolor:",
+                "custom-rgb": "Custom\nRGB:",
+                "bg-gradient-header": "or select a gradient!",
+                "pick-gradient": "Pick a\ngradient",
+                "offset-y": "Offset Y[scale=0.5]\nPixels before gradient starts[/scale]",
+                "gradient-scale": "Scale[scale=0.5]\nLine height multiplied by:[/scale]",
+                "level-music-header": "Level music (for this map)",
+                "other-music-header": "Other music (applies to all maps)",
+                "map-theme": "Map theme",
+                "switch-theme": "Switches",
+                "starman-theme": "Starman",
+                "metal-theme": "Steethan",
+                "loop-point-notice": "[scale=0.6]Hold SHIFT to test loop point[/scale]",
+                "text-formatting": "[scale=0.8]Text\nformatting[/scale]",
+                "inactive-layer-opacity": "[offsety=-8][scale=0.85]Opacity of inactive layers[/scale][/offsety]",
+                "editor-music": "[offsety=-8][scale=0.85]\nEditor music[/scale][/offsety]",
+                "trail-tool-frame-count": "[offsety=-8][scale=0.85]Trail tool\nframe count[/scale][/offsety]",
+                "autosave-header": "Autosave options",
+                "autosave-interval": "Autosaves occur every 5 min.",
+                "lss-level-sync": "LSS cloud synchronization",
+                "sync-on-exit": "Synchronizes on exit",
+                "currently-offline": "Currently offline",
+                "not-logged-in": "Not logged in",
+                "restore-point-header": "Restore Point options",
+                "restore-point-info": "[scale=0.5][color=#CCCCCC]Restore Points are backups of your level, made automatically when the level is saved after a set amount of time.\nYou can go back to a past version of your level from a restore point here.[/background][/scale]",
+                "restore-point-interval": "[scale=0.75]Restore Point creation interval[/scale]"
+            },
+            "buttons": {
+                "new-destination": "Click to add new destination",
+                "go-to-map": "Go to map",
+                "map-code": "Map code",
+                "delete-map": "Delete map",
+                "rename-map": "Rename map",
+                "create-new-map": "Create new map",
+                "import-map": "Import map",
+                "copy-current-layer-list": "Copy current layer list",
+                "copy-current-theme": "Copy current theme\n[scale=0.75](backgrounds, music & filters)[/scale]",
+                "reset-startpoint": "Reset startpoint",
+                "foreground": "Foreground",
+                "middleground": "Middleground",
+                "background": "Background",
+                "music-echo": "Echo effect",
+                "music-water-muffle": "[scale=0.65]Muffle whilst\nunderwater[/scale]",
+                "editing": "Editing",
+                "preview": "Preview",
+                "main-stats": "[scale=0.8]Main stats[/scale]",
+                "object-stats": "[scale=0.8]Objects[/scale]",
+                "tilemap-stats": "[scale=0.8]Tilemaps[/scale]",
+                "misc-stats": "[scale=0.9]Other[/scale]",
+                "grid-toggle": "Grid\n[scale=0.5](G)[/scale]",
+                "favorites-bar-toggle": "Favorites bar",
+                "mini-toolbar-toggle": "[scale=0.5]Mini\n[/scale]toolbar",
+                "toolbar-animations-toggle": "Toolbar animations",
+                "editor-sounds-toggle": "Editor\nsounds",
+                "cursor-coords-toggle": "Display cursor coordinates",
+                "autosave-toggle": "Enable autosave",
+                "autosave-notif": "Notify me of\nautosaves",
+                "edit-sync-settings": "Edit synchronization settings",
+                "prompt-backup-notice": "[scale=0.75]Prompt every ... to download a backup[/scale]\n[scale=0.5][color=#CCCCCC](Recommended on web SMC)[/color][/scale]",
+                "create-restore-point": "[scale=0.75]Manually create\nrestore point[/scale]",
+                "view-restore-points": "[scale=0.75]View/Use\nrestore points[/scale]",
+                "download-level": "[scale=0.75]Download current level[/scale]"
+            },
+            "tooltips": {
+                "add-entryway": "Add entryway",
+                "destination-layer-output-info": "The layer the player will be put on (while exiting a pipe, they are put on the destination's own layer, then this selected layer).",
+                "test-level-from-destination": "Test level from this destination",
+                "visit-destination": "Visit destination",
+                "delete-destination": "Delete destination",
+                "layer-type": "{0} layer",
+                "layer-tags": "Optional tag(s) used to reference this layer. Layers can have multiple tags (separated by spaces) and also
