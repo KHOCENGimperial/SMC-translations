@@ -2,8 +2,8 @@
     "locale": "en-US",
     "strings": {
         "constants": {
-            "1_map-palettes": "Standard/Dunia Atas|Bawah Tanah (biru tua)|Kastil (abu-abu)|Bawah Air (hijau tua)|Langit (hijau muda)|Es (biru muda)|Gunung Berapi (merah)|Rumah Hantu (ungu)|Bonus (kuning)|Pantai (coklat muda)|Dunia Bintang (biru pastel)|Hutan (coklat tanah)|Kapal Udara (coklat-hitam)",
-            "2_map-palettes": "Standard"
+            "1_map-palettes": "Standar/Dunia Atas|Bawah Tanah (biru tua)|Kastil (abu-abu)|Bawah Air (hijau tua)|Langit (hijau muda)|Es (biru muda)|Gunung Berapi (merah)|Rumah Hantu (ungu)|Bonus (kuning)|Pantai (coklat muda)|Dunia Bintang (biru pastel)|Hutan (coklat tanah)|Kapal Udara (coklat-hitam)",
+            "2_map-palettes": "Standar"
         },
         "common": {
             "buttons": {
@@ -13,7 +13,7 @@
                 "download": "Unduh",
                 "next": "Selanjutnya",
                 "confirm": "Konfirmasi",
-                "confirm-click": "Click again to confirm",
+                "confirm-click": "Klik lagi untuk mengonfirmasi",
                 "proceed": "Lanjutkan",
                 "cancel": "Batal",
                 "play": "Main",
@@ -71,83 +71,83 @@
                 "paused": "dijeda",
                 "stop": "berhenti",
                 "loop": "pengulangan",
-                "name": "name",
-                "wait": "wait",
-                "main": "main",
-                "custom": "custom",
-                "left": "left",
-                "middle": "middle",
-                "right": "right",
-                "up": "up",
-                "down": "down",
-                "width": "width",
-                "height": "height",
-                "opacity": "opacity",
-                "stationary": "stationary",
+                "name": "nama",
+                "wait": "tunggu",
+                "main": "utama",
+                "custom": "kustom",
+                "left": "kiri",
+                "middle": "tengah",
+                "right": "kanan",
+                "up": "atas",
+                "down": "bawah",
+                "width": "lebar",
+                "height": "tinggi",
+                "opacity": "opasitas",
+                "stationary": "tidak bergerak",
                 "layers": {
-                    "one": "layer",
-                    "other": "layers"
+                    "one": "lapis",
+                    "other": "lapisan"
                 },
                 "effects": {
-                    "one": "effect",
-                    "other": "effects"
+                    "one": "efek",
+                    "other": "efek-efek"
                 },
                 "filters": {
                     "one": "filter",
-                    "other": "filters"
+                    "other": "filter-filter"
                 },
                 "generators": {
                     "one": "generator",
-                    "other": "generators"
+                    "other": "generator-generator"
                 },
                 "objects": {
-                    "one": "object",
-                    "other": "objects"
+                    "one": "objek",
+                    "other": "objek-objek"
                 },
                 "tiles": {
-                    "one": "tile",
-                    "other": "tiles"
+                    "one": "ubin",
+                    "other": "ubin-ubin"
                 },
                 "destination": {
-                    "one": "destination",
-                    "other": "destinations"
+                    "one": "destinasi",
+                    "other": "destinasi-destinasi"
                 },
                 "entryway": {
-                    "one": "entryway",
-                    "other": "entryways"
+                    "one": "jalan masuk",
+                    "other": "jalan masuk"
                 },
                 "maps": {
-                    "one": "map",
-                    "other": "maps"
+                    "one": "peta",
+                    "other": "peta-peta"
                 },
                 "themes": {
-                    "one": "theme",
-                    "other": "themes"
+                    "one": "tema",
+                    "other": "tema-tema"
                 },
                 "tags": {
-                    "one": "tag",
-                    "other": "tags"
+                    "one": "tanda",
+                    "other": "tanda-tanda"
                 },
                 "degrees": {
-                    "one": "degree",
-                    "other": "degrees"
+                    "one": "derajat",
+                    "other": "derajat-derajat"
                 }
             },
             "labels": {
-                "press-again-to-confirm": "Press again to confirm",
-                "press-x-again-to-confirm": "Press {0} again to confirm",
-                "nothing-to-see": "Nothing to see here!",
-                "x-settings": "{0} settings",
-                "x-tags": "{0} tags",
-                "active-on-start": "Active on start",
-                "additional-x-settings": "Additional {0} settings",
-                "above-all-layers": "above all layers",
-                "on-layer": "on layer",
-                "puts-player": "Puts player",
-                "warps-to": "Warps to",
-                "this-map": "This map",
-                "new-x-name": "New {0} name",
-                "one-screen": "one screen",
+                "press-again-to-confirm": "Tekan lagi untuk mengonfirmasi",
+                "press-x-again-to-confirm": "Tekan {0} again untuk mengonfirmasi",
+                "nothing-to-see": "Gak ada yang bisa dilihat disini!",
+                "x-settings": "{0} pengaturan",
+                "x-tags": "{0} tanda",
+                "active-on-start": "Aktif saat mulai",
+                "additional-x-settings": "Pengaturan {0} tambahan",
+                "above-all-layers": "diatas semua lapisan",
+                "on-layer": "pada lapis",
+                "puts-player": "Taruh pemain",
+                "warps-to": "Pindah ke",
+                "this-map": "Peta ini",
+                "new-x-name": "Nama {0} baru",
+                "one-screen": "satu layar",
                 "surface-area": "Surface area",
                 "max-tiles": "{0} tiles max",
                 "min-tiles": "Minimum size is {0}",
