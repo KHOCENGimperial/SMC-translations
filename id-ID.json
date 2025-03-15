@@ -148,98 +148,98 @@
                 "this-map": "Peta ini",
                 "new-x-name": "Nama {0} baru",
                 "one-screen": "satu layar",
-                "surface-area": "Surface area",
-                "max-tiles": "{0} tiles max",
-                "min-tiles": "Minimum size is {0}",
-                "current-map-size": "Current map size",
-                "select-x": "Select {0}",
+                "surface-area": "Area daratan",
+                "max-tiles": "{0} maksimum ubin",
+                "min-tiles": "Ukuran minimum adalah {0}",
+                "current-map-size": "Ukuran peta saat ini",
+                "select-x": "Pilih {0}",
                 "mode": "Mode",
-                "appearance": "Appearance",
-                "activity": "Activity",
-                "activation": "Activation",
-                "advanced": "Advanced",
-                "tagging": "Tagging",
-                "behavior": "Behavior",
-                "how-it-works": "How it works",
-                "duration": "Duration",
-                "repeats": "Repeats",
-                "delay": "Delay",
-                "other": "Other"
+                "appearance": "Penampilan",
+                "activity": "Aktivitas",
+                "activation": "Aktivasi",
+                "advanced": "Lanjutan",
+                "tagging": "Penandaan",
+                "behavior": "Perilaku",
+                "how-it-works": "Bagaimana itu bekerja",
+                "duration": "Durasi",
+                "repeats": "Ulangi",
+                "delay": "Tunda",
+                "other": "Lainnya"
             },
             "menu-options": {
                 "default": "Default",
-                "no-power-up": "No power-up",
-                "enabled": "Enabled",
-                "disabled": "Disabled",
-                "empty": "Empty",
-                "none": "None",
+                "no-power-up": "Tidak ada power-up",
+                "enabled": "Nyala",
+                "disabled": "Mati",
+                "empty": "Kosong",
+                "none": "Tidak ada",
                 "horizontal": "Horizontal",
-                "vertical": "Vertical",
-                "both-axes": "Both axes",
-                "standard": "Standard",
-                "more-buttons": "More buttons",
-                "reset-to-default": "Reset to default",
-                "unapplicable": "Unapplicable"
+                "vertical": "Vertikal",
+                "both-axes": "Kedua sumbu",
+                "standard": "Standar",
+                "more-buttons": "Tombol lainnya",
+                "reset-to-default": "Atur ulang ke default",
+                "unapplicable": "Tidak bisa dipasang"
             }
         },
         "title-screen": {
             "buttons": {
-                "play-level": "[scale=0.8]Play level[/scale]",
-                "level-editor": "[scale=0.8]Level Editor[/scale]",
-                "extras": "[scale=0.8]Minigames[/scale][scale=0.5]\n[color=#CCCCCC]Under construction[/color][/scale]"
+                "play-level": "[scale=0.8]Main Level[/scale]",
+                "level-editor": "[scale=0.8]Pengedit Level[/scale]",
+                "extras": "[scale=0.8]Permainan Mini[/scale][scale=0.5]\n[color=#CCCCCC]Dalam pengerjaan[/color][/scale]"
             },
             "tooltips": {
-                "join-lss": "Visit Level Share Square!",
-                "lss-yt": "Subscribe to Level Share Square!",
-                "smc-discord": "Join our Discord!"
+                "join-lss": "Kunjungi Level Share Square!",
+                "lss-yt": "Subscribe ke Level Share Square!",
+                "smc-discord": "Kunjungi Discord kami!"
             }
         },
         "level-select": {
             "labels": {
-                "level-select": "LEVEL SELECT",
-                "pick-gamestyle": "PICK A GAMESTYLE",
-                "pick-theme": "PICK A THEME",
-                "empty-card": "EMPTY LEVEL CARD",
-                "level-name": "Level name",
-                "size-preset": "Size preset"
+                "level-select": "PEMILIHAN LEVEL",
+                "pick-gamestyle": "PILIH GAYA PERMAINAN",
+                "pick-theme": "PILIH TEMA",
+                "empty-card": "LEVEL KOSONG",
+                "level-name": "Nama level",
+                "size-preset": "Ukuran ditetapkan"
             },
             "buttons": {
-                "create-new": "CREATE A NEW LEVEL",
-                "import-code": "IMPORT LEVEL CODE",
-                "compact": "Compact",
-                "production": "Production",
-                "create-level": "Create level!",
-                "create-lss-entry": "Also create a private LSS-entry"
+                "create-new": "BUAT LEVEL BARU",
+                "import-code": "IMPOR KODE LEVEL",
+                "compact": "Kompak",
+                "production": "Produksi,
+                "create-level": "Buat level!",
+                "create-lss-entry": "Juga buat LSS-entry privat"
             },
             "tooltips": {
-                "play": "Play",
-                "restore-points": "Restore points",
-                "open-editor": "Open level editor",
-                "view-code": "View code",
-                "delete": "Delete"
+                "play": "Main",
+                "restore-points": "Kembalikan poin",
+                "open-editor": "Buka pengedit level",
+                "view-code": "Lihat kode",
+                "delete": "Hapus"
             },
             "html": {
-                "level-name-placeholder": "You can always change this later",
-                "level-size-presets": "Horizontal (no extra Y)|Horizontal (with Y-space)|Vertical|Metroidvania|One-screen",
-                "import-code-placeholder": "Paste your level code here, then press the LOAD button."
+                "level-name-placeholder": "Kamu bisa ganti ini nanti",
+                "level-size-presets": "Horizontal (tanpa Y ekstra)|Horizontal (dengan ruang-Y)|Vertikal|Metroidvania|Satu layar",
+                "import-code-placeholder": "Tempel kode levelmu disini, lalu tekan tombol MUAT."
             },
             "text": {
-                "gamestyle-notice": "Pick a style! In this game, each gamestyle aims to closely replicate the source material. Therefore gamestyles aren't compatible, so think about which one you'd like to use now.",
-                "theme-notice": "Now just decide on a theme and a name for your level!\nYou can change these later. Themes can be customized in-editor.",
-                "delete-warning": "Are you sure you want to delete this level?\nIn case you want to play or edit it again later, be sure to save the level code to your computer first.",
-                "code-notice": "You can share this level code with others, so they can play your level! It's also recommended to keep level codes stored as a back-up.",
+                "gamestyle-notice": "Pilih Gaya! Didalam permainan ini, setiap gaya permainan ditunjukan untuk meniru hampir sama dari material sumber. Karena itu gaya permainan tidak kompatibel , jadi pikirkan mana yang mau kamu gunakan sekarang.",
+                "theme-notice": "Sekarang tentukan tema dan nama dilevelmu!\nKamu bisa ganti ini nanti. Tema bisa dikustomisasi di pengedit.",
+                "delete-warning": "Apakah kamu yakin kamu ingin menghapus level ini?\nJika kamu mau main atau edit nanti, pastikan untuk menyimpan kode level ke komputermu!.",
+                "code-notice": "Kamu bisa bagikan kode level ke orang lain, jadi mereka bisa bermain levelmu! Direkomendasikan untuk menyimpan kode level sebagai cadangan.",
                 "compact-notice": "Compact codes only contain all the data needed to construct your level, stripping out data stored for the level designers only.",
                 "production-notice": "The production code saves extra data that is handy during level designing, such as what items are in the favorites bar.",
                 "import-code-notice": "Paste a level code here, and the level will be saved within the game. It is still recommended to make regular backups of your level by saving the code on your device and/or on Level Share Square.",
                 "first-paste-code": "You first have to paste in your level code.",
-                "unrecognized-code": "Sorry, this level code could not be recognized.",
-                "outdated-version": "This level code is intended for a newer version of Super Mario Construct.",
+                "unrecognized-code": "Maaf, kode level ini tidak dapat dikenali.",
+                "outdated-version": "Kode level ini dirancang untuk versi terbaru dari Super Mario Construct.",
                 "missing-startpoint": "The startpoint is invalid. Notify the creator to place a startpoint in an existing map."
             }
         },
         "regular-play": {
             "labels": {
-                "made-by": "Made by",
+                "made-by": "Dibuat oleh",
                 "no-desc": "No description was set for this level.",
                 "time": "TIME"
             },
